@@ -19,6 +19,8 @@ add_airport?city_name=...&country_name=...&latitude=...&longitude=...
 
 add_airline?name=...&capacity=...&departure_time=...&from_city=...&arrival_time=...&to_city=...
 
+*departure_time and arrival_time should be a long number timestamp*
+
 
 ##Add the location to a country:
 
