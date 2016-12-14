@@ -1,6 +1,6 @@
 #**Url**
 
-Base url: /sim
+Base url: 192.168.0.7:8080/sim
 
 
 ##Create a country:
@@ -33,3 +33,5 @@ Longitude is within range [-180.0, 180.0]
 **On input error, response code will be 406**
 
 **On success, response code will be 200**
+
+**Only support GET requests**
