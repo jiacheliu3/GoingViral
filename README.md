@@ -5,7 +5,7 @@ Base url: 192.168.0.7:8080/sim
 
 ##Create a country:
 
-add_country?name=...&population=...
+add_country?name=...&population=...&code=...
 
 *Population is at the unit of one person*
 
